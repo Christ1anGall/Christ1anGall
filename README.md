@@ -52,10 +52,10 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
 
 
 <div>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=christ1angall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<a href="https://github.com/christ1angall">
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ1angall&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=christ1angall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ1angall&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<a href="https://github.com/christ1angall">
   
 <br>
   
