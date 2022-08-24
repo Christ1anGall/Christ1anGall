@@ -61,8 +61,8 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
 
 ### Contate-me:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/christ1angall/) 
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="christiangall" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/christiangall?trk=profile-badge">Christian Gall</a></div>
+              
  <br>
   
  Deixo meus principais projetos nos **cards** abaixo 👇.
