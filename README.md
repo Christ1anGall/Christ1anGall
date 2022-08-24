@@ -49,10 +49,12 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
 
 ### Minhas informações aqui no GitHub:
 
+
+
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=christ1angall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=christ1angall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <a href="https://github.com/christ1angall">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ1angall&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ1angall&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <br>
@@ -60,6 +62,8 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
 ---
 
 ### Contate-me:
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="christiangall" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/christiangall?trk=profile-badge">Christian Gall</a></div>
               
