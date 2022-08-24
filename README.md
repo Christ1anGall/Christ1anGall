@@ -1,16 +1,68 @@
-### Hi there 👋
+## Olá 👋, eu sou Christian Gall! 🐱‍👤
 
-<!--
-**Christ1anGall/Christ1anGall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
 
-Here are some ideas to get you started:
+sou um desenvolvedor front-end que possui 8 anos de experiência em desenvolvimento especificamente na área de automação industrial. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Já trabalhei na Gerência de Engenharia da Samarco no Espírito Santo e na diretoria de tecnologia da Vale no S11D no Pará. 
+
+trabalho hoje como monitor frontEnd na Kenzie Academy Brasil enquanto estou me formando em desenvolvimento fullstack. tenho formação superior em Gestão da Tecnologia da informação e possuo certificação técnica em automação industrial. 
+
+hoje possuo sólidos conhecimentos em desenvolvimento front-end e vou começar a estudar o desenvolvimento backend para me tornar um desenvolvedor Fullstack. 
+
+Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React Router Dom, entre outras. 
+
+<br>
+
+*“Faça ou não faça. Tentativa não há." - Mestre Yoda*
+
+---
+
+### Linguagens e Ferramentas utilizadas em meus projetos:
+
+<div style="display: inline_block"><br>
+  <ul>
+    <li>
+      <img align="center" alt="Christian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      HTML
+    </li>
+    <li>
+      <img align="center" alt="Christian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      CSS
+    </li>
+    <li>
+      <img align="center" alt="Christian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      JavaScript
+    </li>
+    <li>
+      <img align="center" alt="Christian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      TypeScript
+    </li>
+    <li>
+      <img align="center" alt="Christian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      React
+    </li>
+  </ul>
+</div>
+
+---
+
+### Minhas informações aqui no GitHub:
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=christ1angall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/christ1angall">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ1angall&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+<br>
+  
+---
+
+### Contate-me:
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/christ1angall/) 
+
+ <br>
+  
+ Deixo meus principais projetos nos **cards** abaixo 👇.
