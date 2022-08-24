@@ -38,14 +38,16 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
       <img align="center" alt="Christian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       TypeScript
     </li>
-     <li>
-      <img align="center" alt="Christian-StyledComponent" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
-      styled-components
-    </li>
+
     
     <li>
       <img align="center" alt="Christian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       React
+    </li>
+    
+        <li>
+      <img align="center" alt="Christian-StyledComponent" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
+      styled-components
     </li>
   </ul>
 </div>
