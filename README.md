@@ -1,4 +1,4 @@
-## Olá 👋, eu sou Christian Gall! 🐱‍👤 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
+## Olá 👋, eu sou Christian Gall! 🐱‍👤
 
 ### Sobre Mim
 
