@@ -70,7 +70,14 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
 
 ### Contate-me:
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christ1angall)(https://www.linkedin.com/in/christ1angall)
+[Christian Gall](mailto:christianalexsoares@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+<a href="https://www.linkedin.com/in/Christ1angall/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
+  
+<h2 align="center">⚙️Analycts</h2>
+<div align="center">
   
  <br>
 
