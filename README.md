@@ -70,6 +70,6 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christ1angall)](https://www.linkedin.com/in/christ1angall)        
  <br>
 
-![Snake animation](https://github.com/Christ1anGall/Christ1anGall/blob/output/github-contribution-grid-snake.svg)
+
   
  Deixo meus principais projetos nos **cards** abaixo 👇.
