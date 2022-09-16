@@ -1,14 +1,21 @@
 ## Olá 👋, eu sou Christian Gall! 🐱‍👤
 
-### Sobre Mim
+### Olá, seja bem-vindo (a) ao meu perfil!
 
-sou um desenvolvedor front-end que possui 8 anos de experiência em desenvolvimento especificamente na área de automação industrial. 
+
+Muito prazer eu me chamo Christian e sou um desenvolvedor front-end que possui 8 anos de experiência em desenvolvimento na área de automação industrial. 
 
 Já trabalhei na Gerência de Engenharia da Samarco no Espírito Santo e na diretoria de tecnologia da Vale no S11D no Pará. 
 
-trabalho hoje como monitor frontEnd na Kenzie Academy Brasil enquanto estou me formando em desenvolvimento fullstack. tenho formação superior em Gestão da Tecnologia da informação e possuo certificação técnica em automação industrial. 
+trabalhei como monitor frontEnd na Kenzie Academy Brasil e hoje trabalho como desenvolvedor front-end enquanto estou me formando em desenvolvimento fullstack. tenho formação superior em Gestão da Tecnologia da informação e possuo certificação técnica em automação industrial. 
 
 hoje possuo sólidos conhecimentos em desenvolvimento front-end e vou começar a estudar o desenvolvimento backend para me tornar um desenvolvedor Fullstack. 
+
+Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React Router Dom, entre outras. 
+
+por favor naveguem em meus repositórios e vejam a qualidade dos meus códigos.
+
+Existem 2 valores que eu prezo muito que são a autonomia e transparência, e com certeza teremos um laço muito forte, no qual juntos construiremos projetos incríveis. 
 
 Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React Router Dom, entre outras. 
 
