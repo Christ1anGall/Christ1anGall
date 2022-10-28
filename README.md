@@ -57,6 +57,14 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
       <img align="center" alt="Christian-NodeJs" height="40" width="40" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4">
       Node.JS
     </li>
+    <li>
+      <img align="center" alt="Christian-typeorm" height="40" width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4">
+      typeorm
+    </li>
+    <li>
+      <img align="center" alt="Christian-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+      PostgreSQ
+    </li>
   </ul>
 </div>
 
