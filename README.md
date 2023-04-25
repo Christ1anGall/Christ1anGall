@@ -99,7 +99,10 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
 <div align="center">
   
  <br>
-
+<div>
 
   ![](https://komarev.com/ghpvc/?username=Christ1anGall)
+  
+  </div>
+   <br>
  Deixo meus principais projetos nos **cards** abaixo 👇.
