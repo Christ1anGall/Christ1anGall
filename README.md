@@ -77,6 +77,14 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
       <img align="center" alt="Christian-PostgreSQL" height="40" width="40" src="https://camo.githubusercontent.com/0acfb66ff89d656d796de72f1b001e92dc51bc88139b5b344339a808d35090d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d706c61696e2e737667">
       MySQL
     </li>
+     <li>
+      <img align="center" alt="Christian-PostgreSQL" height="40" width="40" src="https://www.python.org/static/img/python-logo.png">
+      Python
+    </li>
+    <li>
+      <img align="center" alt="Christian-PostgreSQL" height="40" width="40" src="https://www.oracle.com/oce/press/assets/CONT6C95347B9ECC40CF8E7272A74FD80BDE/native/rc24-java-logo.gif">
+      Java
+    </li>
   </ul>
 </div>
 
