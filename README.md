@@ -65,17 +65,14 @@ Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React 
       <img align="center" alt="Christian-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
       PostgreSQL
     </li>
-    
     <li>
       <img align="center" alt="Christian-PostgreSQL" height="40" width="40" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
       Sass
     </li>
-    
     <li>
       <img align="center" alt="Christian-PostgreSQL" height="40" width="40" src="https://camo.githubusercontent.com/be406e7fcc11cd6204d544a8e1e3a168cd57a6fbf1d3b455830feeb85ef1ec76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667">
       C#
     </li>
-    
     <li>
       <img align="center" alt="Christian-PostgreSQL" height="40" width="40" src="https://camo.githubusercontent.com/0acfb66ff89d656d796de72f1b001e92dc51bc88139b5b344339a808d35090d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d706c61696e2e737667">
       MySQL
