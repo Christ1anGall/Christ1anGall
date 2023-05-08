@@ -5,19 +5,26 @@
 
 Muito prazer eu me chamo Christian e sou um desenvolvedor front-end que possui 8 anos de experiência em desenvolvimento na área de automação industrial. 
 
-Já trabalhei na Gerência de Engenharia da Samarco no Espírito Santo e na diretoria de tecnologia da Vale no S11D no Pará. 
+minha história com tecnologia começou quando ganhei de presente um curso de montagem de manutenção de computadores em 2007 onde passei a realizar manutenções em computadores de amigos e parentes. 
 
-trabalhei como monitor frontEnd na Kenzie Academy Brasil e hoje trabalho como desenvolvedor front-end enquanto estou me formando em desenvolvimento fullstack. tenho formação superior em Gestão da Tecnologia da informação e possuo certificação técnica em automação industrial. 
+E em 2011 fiz um curso téc. em automação industrial o que me deixou mais apaixonado pela tecnologia,
+sempre coloquei muita dedicação em tudo que faço como resultado eu Já trabalhei na Gerência de Engenharia da Samarco no Espírito Santo e na diretoria de tecnologia da Vale no S11D no Pará, e em 2021 cheguei a ser contemplado com uma premiação no desenvolvimento de uma aplicação para 3 MCRS no S11D utilizando a metodologia KAIZEN. 
 
-hoje possuo sólidos conhecimentos em desenvolvimento front-end e vou começar a estudar o desenvolvimento backend para me tornar um desenvolvedor Fullstack. 
+comecei o ano de 2022 me desafiando, startei uma transição de carreira para a areá de desenvolvimento Full Stack. 
 
-Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React Router Dom, entre outras. 
+Meus olhos sempre brilharam com a área de desenvolvimento e queria mergulhar de vez nela. então comecei a estudar o Desenvolvimento Web Full Stack na Kenzie Academy Brazil e devido a meu alto desempenho fui convidado a trabalhar como monitor Front-end na Kenzie Academy Brasil no qual passei a ter 5 devs sob minha supervisão com o objetivo de ajuda-los a se desenvolver no curso. sou muito grato por essa oportunidade que me refinou em muitas Soft Skills. 
 
-por favor naveguem em meus repositórios e vejam a qualidade dos meus códigos.
+trabalhei como desenvolvedor front-end na Wicomm que é especializada em E-Commerce e hoje trabalho como Analista de Sistema numa empresa maravilhosa
 
-Existem 2 valores que eu prezo muito que são a autonomia e transparência, e com certeza teremos um laço muito forte, no qual juntos construiremos projetos incríveis. 
+tenho formação superior em Gestão da Tecnologia da informação e possuo certificação técnica em automação industrial. 
 
-Tenho domínio das tecnologias React.JS, Figma, Styled Components, axios, React Router Dom, entre outras. 
+E existem 2 valores que eu prezo muito que são a autonomia e transparência e minhas principais competências hoje são: 
+
+HTML5 | CSS3 | Web Semântica | JavaScript | Lógica de programação | Controle de versão com git | Programação Orientada a Objetos | Programação Funcional | Metodologias Ágeis | Scrum | Kanban | JIRA | Trello | Github | Qualidade | Noções de UX | React | Hooks | Componentização, uso de bibliotecas de componentes | Consumo de APIs | NodeJs | Express | BitBuckte | TypeScript | Banco de dados SQL | PostgreSQL | Construção de APIs RESTful | Programação assíncrona | ORM | TypeORM | Migrations | C# | .Net | SSMS | VB 
+
+Vamos conversar ?
+Contato: (28) 99922-8976
+Email: christiangall92@icloud.com
 
 <br>
 
