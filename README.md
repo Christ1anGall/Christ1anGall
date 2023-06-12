@@ -85,7 +85,7 @@ Email: christiangall92@icloud.com
       MySQL
     </li>
      <li>
-      <img align="center" alt="Christian-Python" src="https://www.python.org/static/img/python-logo.png">
+      <img align="center" height="40" width="40" alt="Christian-Python" src="https://www.python.org/static/img/python-logo.png">
       Python
     </li>
     <li>
