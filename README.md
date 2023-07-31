@@ -114,6 +114,7 @@ Email: christiangall92@icloud.com
   
 ---
 <div>
+  
 ### Contate-me:
 
 <a href="https://www.linkedin.com/in/christ1angall"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
