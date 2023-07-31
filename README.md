@@ -29,74 +29,8 @@ Email: christiangall92@icloud.com
 *“Faça ou não faça. Tentativa não há." - Mestre Yoda*
 
 ---
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64878384e4bf41c65b0490c0?variant=dark)](https://roadmap.sh)
-### Linguagens e Ferramentas utilizadas em meus projetos:
 
-<div style="display: flex"><br>
-  <ul>
-    <li>
-      <img align="center" alt="Christian-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      HTML
-    </li>
-    <li>
-      <img align="center" alt="Christian-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      CSS
-    </li>
-    <li>
-      <img align="center" alt="Christian-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      JavaScript
-    </li>
-    <li>
-      <img align="center" alt="Christian-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      TypeScript
-    </li>   
-    <li>
-      <img align="center" alt="Christian-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      React
-    </li>   
-    <li>
-      <img align="center" alt="Christian-StyledComponent" height="40" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
-      styled-components
-    </li>
-    <li>
-      <img align="center" alt="Christian-NodeJs" height="40" width="40" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4">
-      Node.JS
-    </li>
-    <li>
-      <img align="center" alt="Christian-typeorm" height="40" width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4">
-      typeorm
-    </li>
-    <li>
-      <img align="center" alt="Christian-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-      PostgreSQL
-    </li>
-    <li>
-      <img align="center" alt="Christian-Sass" height="40" width="40" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
-      Sass
-    </li>
-    <li>
-      <img align="center" alt="Christian-C#" height="40" width="40" src="https://camo.githubusercontent.com/be406e7fcc11cd6204d544a8e1e3a168cd57a6fbf1d3b455830feeb85ef1ec76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667">
-      C#
-    </li>
-    <li>
-      <img align="center" alt="Christian-MySQL" height="40" width="40" src="https://camo.githubusercontent.com/0acfb66ff89d656d796de72f1b001e92dc51bc88139b5b344339a808d35090d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d706c61696e2e737667">
-      MySQL
-    </li>
-     <li>
-      <img align="center" height="40" width="40" alt="Christian-Python" src="https://www.python.org/static/img/python-logo.png">
-      Python
-    </li>
-    <li>
-      <img align="center" alt="Christian-Java" height="40" width="40" src="https://www.oracle.com/oce/press/assets/CONT6C95347B9ECC40CF8E7272A74FD80BDE/native/rc24-java-logo.gif">
-      Java
-    </li>
-    <li>
-      <img align="center" alt="Christian-Net" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKcjRmreJbmoB43_UTLL0EqI3lPP84v4DwPaZ90Q-wsEsJzVjg12X8MKxfIQcRHuj1rQ&usqp=CAU">
-      .Net
-    </li>
-    
-  </ul>
-</div>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64878384e4bf41c65b0490c0?variant=dark)](https://roadmap.sh)
 
 ---
 
@@ -104,9 +38,7 @@ Email: christiangall92@icloud.com
 
 
 
-
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=christ1angall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ1angall&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
 
 <a href="https://github.com/christ1angall">
   
@@ -122,8 +54,12 @@ Email: christiangall92@icloud.com
 </div>
   
 <h2 align="center">⚙️Analycts</h2>
+
 <div align="center">
+  
  <br>
+ ### Linguagens e Ferramentas utilizadas em meus projetos:
+
   
   ![](https://komarev.com/ghpvc/?username=Christ1anGall)
   
