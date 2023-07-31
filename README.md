@@ -120,17 +120,13 @@ Email: christiangall92@icloud.com
 ### Contate-me:
 
 <a href="https://www.linkedin.com/in/christ1angall" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
   
 <h2 align="center">⚙️Analycts</h2>
 <div align="center">
-  
  <br>
-<div>
-
   ![](https://komarev.com/ghpvc/?username=Christ1anGall)
   
   </div>
-   <br>
+  <br>
  Deixo meus principais projetos nos **cards** abaixo 👇.
