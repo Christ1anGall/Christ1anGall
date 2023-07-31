@@ -31,7 +31,7 @@ Email: christiangall92@icloud.com
 *“Faça ou não faça. Tentativa não há." - Mestre Yoda*
 
 ---
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64878384e4bf41c65b0490c0?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64878384e4bf41c65b0490c0?variant=dark)](https://roadmap.sh)
 ### Linguagens e Ferramentas utilizadas em meus projetos:
 
 <div style="display: inline_block"><br>
