@@ -105,9 +105,6 @@ Email: christiangall92@icloud.com
 
 
 <div>
-  
-
-  
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=christ1angall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ1angall&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
@@ -116,10 +113,10 @@ Email: christiangall92@icloud.com
 <br>
   
 ---
-
+<div>
 ### Contate-me:
 
-<a href="https://www.linkedin.com/in/christ1angall" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/christ1angall"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
 <h2 align="center">⚙️Analycts</h2>
