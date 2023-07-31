@@ -35,7 +35,7 @@ Email: christiangall92@icloud.com
 ---
 
 ### Minhas informações aqui no GitHub:
-
+ ### Linguagens e Ferramentas utilizadas em meus projetos:
 
 
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=christ1angall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ1angall&layout=compact&langs_count=10&theme=tokyonight"/>
@@ -58,7 +58,6 @@ Email: christiangall92@icloud.com
 <div align="center">
   
  <br>
- ### Linguagens e Ferramentas utilizadas em meus projetos:
 
   
   ![](https://komarev.com/ghpvc/?username=Christ1anGall)
