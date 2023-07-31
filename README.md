@@ -20,8 +20,6 @@ tenho formação superior em Gestão da Tecnologia da informação e possuo cert
 
 E existem 2 valores que eu prezo muito que são a autonomia e transparência e minhas principais competências hoje são: 
 
-HTML5 | CSS3 | Web Semântica | JavaScript | Lógica de programação | Controle de versão com git | Programação Orientada a Objetos | Programação Funcional | Metodologias Ágeis | Scrum | Kanban | JIRA | Trello | Github | Qualidade | Noções de UX | React | Hooks | Componentização, uso de bibliotecas de componentes | Consumo de APIs | NodeJs | Express | BitBuckte | TypeScript | Banco de dados SQL | PostgreSQL | Construção de APIs RESTful | Programação assíncrona | ORM | TypeORM | Migrations | C# | .Net | SSMS | VB 
-
 Vamos conversar ?
 Contato: (28) 99922-8976
 Email: christiangall92@icloud.com
