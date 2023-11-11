@@ -3,18 +3,18 @@
 ### Olá, seja bem-vindo (a) ao meu perfil!
 
 
-Muito prazer eu me chamo Christian e sou um desenvolvedor front-end que possui 8 anos de experiência em desenvolvimento na área de automação industrial. 
+Muito prazer eu me chamo Christian e sou um desenvolvedor fullStack que possui 8 anos de experiência em desenvolvimento de aplicações na área de automação industrial. 
 
 minha história com tecnologia começou quando ganhei de presente um curso de montagem de manutenção de computadores em 2007 onde passei a realizar manutenções em computadores de amigos e parentes. 
 
 E em 2011 fiz um curso téc. em automação industrial o que me deixou mais apaixonado pela tecnologia,
-sempre coloquei muita dedicação em tudo que faço como resultado eu Já trabalhei na Gerência de Engenharia da Samarco no Espírito Santo e na diretoria de tecnologia da Vale no S11D no Pará, e em 2021 cheguei a ser contemplado com uma premiação no desenvolvimento de uma aplicação para 3 MCRS no S11D utilizando a metodologia KAIZEN. 
+sempre coloquei muita dedicação em tudo que faço como resultado eu cheguei a trabalhar na Gerência de Engenharia da Samarco no Espírito Santo e na diretoria de tecnologia da Vale no S11D no Pará, e em 2021 cheguei a ser contemplado com uma premiação no desenvolvimento de uma aplicação para 3 MCRS no S11D utilizando a metodologia KAIZEN. 
 
-comecei o ano de 2022 me desafiando, startei uma transição de carreira para a areá de desenvolvimento Full Stack. 
+comecei o ano de 2022 me desafiando, iniciei uma transição de carreira para a areá de desenvolvimento Full Stack. 
 
-Meus olhos sempre brilharam com a área de desenvolvimento e queria mergulhar de vez nela. então comecei a estudar o Desenvolvimento Web Full Stack na Kenzie Academy Brazil e devido a meu alto desempenho fui convidado a trabalhar como monitor Front-end na Kenzie Academy Brasil no qual passei a ter 5 devs sob minha supervisão com o objetivo de ajuda-los a se desenvolver no curso. sou muito grato por essa oportunidade que me refinou em muitas Soft Skills. 
+Meus olhos sempre brilharam com a área de desenvolvimento e queria mergulhar de vez nela. então comecei a estudar o Desenvolvimento Web Full Stack.
 
-trabalhei como desenvolvedor front-end na Wicomm que é especializada em E-Commerce e hoje trabalho como Analista de Sistema numa empresa maravilhosa
+trabalhei como desenvolvedor front-end na Wicomm que é especializada em E-Commerce com Vtex e hoje trabalho como Analista de Sistema numa empresa maravilhosa.
 
 tenho formação superior em Gestão da Tecnologia da informação e possuo certificação técnica em automação industrial. 
 
