@@ -3,27 +3,34 @@
 ### Olá, seja bem-vindo (a) ao meu perfil!
 
 
-Muito prazer eu me chamo Christian e sou um desenvolvedor fullStack que possui 8 anos de experiência em desenvolvimento de aplicações na área de automação industrial. 
+Experiência Profissional Atual:
 
-minha história com tecnologia começou quando ganhei de presente um curso de montagem de manutenção de computadores em 2007 onde passei a realizar manutenções em computadores de amigos e parentes. 
+Analista de Desenvolvimento de Software - Up Brasil (Dez 2022 - Atualmente):
+Responsável por projetos/aplicações desde o planejamento até a implementação final.
+Competências incluem Entity Framework, Java, C#, React.js, Scrum.
 
-E em 2011 fiz um curso téc. em automação industrial o que me deixou mais apaixonado pela tecnologia,
-sempre coloquei muita dedicação em tudo que faço como resultado eu cheguei a trabalhar na Gerência de Engenharia da Samarco no Espírito Santo e na diretoria de tecnologia da Vale no S11D no Pará, e em 2021 cheguei a ser contemplado com uma premiação no desenvolvimento de uma aplicação para 3 MCRS no S11D utilizando a metodologia KAIZEN. 
+Formação Acadêmica e Certificações:
 
-comecei o ano de 2022 me desafiando, iniciei uma transição de carreira para a areá de desenvolvimento Full Stack. 
+Curso técnico em automação industrial em 2011.
+Formação superior em Gestão da Tecnologia da Informação.
+Pós em Engenharia de Software
 
-Meus olhos sempre brilharam com a área de desenvolvimento e queria mergulhar de vez nela. então comecei a estudar o Desenvolvimento Web Full Stack.
 
-trabalhei como desenvolvedor front-end na Wicomm que é especializada em E-Commerce com Vtex e hoje trabalho como Analista de Sistema numa empresa maravilhosa.
+Experiências Anteriores:
 
-tenho formação superior em Gestão da Tecnologia da informação e possuo certificação técnica em automação industrial. 
+Desenvolvedor de Front-End - Wicomm (Set 2022 - Dez 2022):
 
-E existem 2 valores que eu prezo muito que são a autonomia e transparência e minhas principais competências hoje são: 
+Desenvolvimento de funcionalidades em sistemas web Front-End.
+Competências em React.js, Bitbucket, Git.
+Auxiliar de Ensino Front-End - Kenzie Academy Brasil (Jul 2022 - Set 2022):
 
-Vamos conversar ?
-Contato: (28) 99922-8976
-Email: christiangall92@icloud.com
+Atividades incluíram contato ativo com alunos, correção de entregas, aplicação de provas.
+Competências em PostgreSQL, JavaScript, HTML5, CSS.
 
+Técnico Especializado em Automação Industrial - Vale (Jun 2020 - Mar 2022):
+
+Desenvolvimento de aplicações em linguagens SCL, STL, LD, FBD, Graph e SFC.
+Configuração e animação de telas supervisórias, manutenção Profibus DP, programação de controladores lógicos programáveis.
 <br>
 
 *“Faça ou não faça. Tentativa não há." - Mestre Yoda*
